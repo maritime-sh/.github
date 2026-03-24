@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://maritime.sh">
-    <img src="https://raw.githubusercontent.com/maritime-sh/.github/main/profile/maritimelogo.png" alt="Maritime" height="80">
+    <img src="https://raw.githubusercontent.com/maritime-sh/.github/main/profile/banner.png" alt="Maritime" width="100%">
   </a>
+
+  <br/><br/>
 
   <h3>The cloud platform built for AI agents.</h3>
 
