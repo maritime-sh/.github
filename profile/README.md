@@ -47,6 +47,14 @@ Every agent gets a stable HTTPS endpoint, real-time log streaming, environment s
 
 ---
 
+### Repositories
+
+| | |
+|---|---|
+| [**maritime-sh/cli**](https://github.com/maritime-sh/cli) | The Maritime CLI &mdash; deploy and manage agents from your terminal. |
+
+---
+
 ### Get Started
 
 <div align="center">
